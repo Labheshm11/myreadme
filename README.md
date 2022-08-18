@@ -1,7 +1,7 @@
 # Exploratory Data analysis (Spotify dataset)
 
 ## Description
-This is a eda which makes us understand the basic fundamentals in the spotify dataset
+This is a eda which makes us understand the basic fundamentals in the spotify dataset from kaggle
 
 ### Technologies
 Python-(pandas,numpy,matplotlib,Kaggle(dataset)
